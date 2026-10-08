@@ -1,8 +1,4 @@
-Yes. For **GitHub**, I’d make it more technical and README-friendly than the LinkedIn post.
 
-Use this as your `README.md`:
-
-````markdown
 # AWS Three-Tier Web Application
 
 ## 📌 Project Overview
@@ -173,18 +169,3 @@ End-to-end testing confirmed that requests reached both application servers and 
 **Mohammed Kaif**
 
 Cloud & DevOps | AWS | Linux | Docker | Kubernetes | Terraform | Jenkins
-
-```
-
-### GitHub repository name
-
-I recommend:
-
-**`aws-three-tier-web-application`**
-
-And a short GitHub description:
-
-> **Secure three-tier web application architecture deployed on AWS using VPC, EC2, ALB, RDS MySQL, Nginx, Python, Security Groups, and S3 VPC Endpoint.**
-
-**Important:** Don't upload `.pem` files, passwords, RDS credentials, private keys, or other secrets to GitHub.
-```
